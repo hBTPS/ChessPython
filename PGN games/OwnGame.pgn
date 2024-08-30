@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.25"]
+[Round "?"]
+[White "FrenchCarlsen"]
+[Black "Rrumpler"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "1159"]
+[BlackElo "1103"]
+[TimeControl "600"]
+[EndTime "7:00:32 PDT"]
+[Termination "FrenchCarlsen won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nf3 {[%timestamp 15]} 2...
+Qe7 {[%timestamp 125]} 3. Bc4 {[%timestamp 29]} 3... h6 {[%timestamp 47]} 4. O-O
+{[%timestamp 28]} 4... Nc6 {[%timestamp 25]} 5. Re1 {[%timestamp 15]} 5... Nf6
+{[%timestamp 85]} 6. Nc3 {[%timestamp 15]} 6... a6 {[%timestamp 49]} 7. d4
+{[%timestamp 35]} 7... b5 {[%timestamp 93]} 8. Bb3 {[%timestamp 80]} 8... Nxd4
+{[%timestamp 75]} 9. Nxd4 {[%timestamp 52]} 9... exd4 {[%timestamp 8]} 10. Qxd4
+{[%timestamp 15]} 10... Bb7 {[%timestamp 153]} 11. Bf4 {[%timestamp 143]} 11...
+O-O-O {[%timestamp 100]} 12. e5 {[%timestamp 505]} 12... Ng4 {[%timestamp 161]}
+13. Bd5 {[%timestamp 107]} 13... Bxd5 {[%timestamp 422]} 14. Nxd5 {[%timestamp
+24]} 14... Qh4 {[%timestamp 53]} 15. Qa7 {[%timestamp 739]} 15... c6
+{[%timestamp 176]} 16. Qc7# {[%timestamp 131]} 1-0
